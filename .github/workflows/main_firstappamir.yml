@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'firstappamir'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C2A9FC39E2574FF0B0936B370CFA6010 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DCEFBCA3656746ECA73492FD48B0DFEF }}
           package: .
